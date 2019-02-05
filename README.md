@@ -1,2 +1,2 @@
 # Lignin
-Lignin research at H-BRS
+Lignin comp chem research at H-BRS.
